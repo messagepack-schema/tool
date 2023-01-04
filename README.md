@@ -1,3 +1,0 @@
-# Nexema tool
-
-## Getting Started
